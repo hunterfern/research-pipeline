@@ -7,7 +7,7 @@ st.set_page_config(
 )
 
 st.title("AI Research Pipeline")
-st.caption("Multi agent user reserach pipeline that generates user insights and a polished research report from a realistic user interview.")
+st.caption("Multi agent user research pipeline that generates user insights and a polished research report from a realistic user interview.")
 
 st.divider()
 
